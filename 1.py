@@ -25,3 +25,5 @@ while i >= 1:
         k += 1
     print()
     i -= 1
+    
+    #Please try the same program with accepting the row size from the User.
